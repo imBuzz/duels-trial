@@ -1,0 +1,8 @@
+name: "Duels"
+main: "it.buzz.devroom.duel.Duel"
+author: "Buzz"
+version: 1.0
+api-version: 1.13
+
+commands:
+  duel:
